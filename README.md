@@ -1,5 +1,5 @@
 # Retail Sales Analysis
-
+Developed with reference to instructional material by Zero Analyst on YouTube
 ## Overview
 
 A comprehensive SQL-based analysis of retail sales data to uncover business insights and trends. This project demonstrates data exploration, cleaning, and analysis techniques using PostgreSQL to answer key business questions about customer behavior, sales patterns, and product performance.
@@ -193,3 +193,4 @@ GROUP BY shift;
 3. Import your retail sales data
 4. Execute the analysis queries to generate insights
 5. Modify queries as needed for specific business requirements
+
